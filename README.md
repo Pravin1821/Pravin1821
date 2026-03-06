@@ -54,12 +54,15 @@
 </p>
 
 ---
+## 📊 GitHub Analytics
 
-### 🏆 Achievements  
-- 🧠 Strong in **Data Structures & Algorithms**  
-- 🎯 Built multiple **Java Backend & Full Stack Projects**  
-- 📄 Published paper in **International Journal of Research Publication and Reviews (Nov 2024)**  
-- 💡 Active in technical clubs, workshops & open learning  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pravin1821&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravin1821&theme=react-dark"/>
+</p>
 
 ---
 
