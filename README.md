@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Java Backend Enthusiast | Full Stack Developer | Spring Boot & MERN Stack</h3>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Specialist;MERN+Stack+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,9 +11,7 @@
 - 🎓 B.Tech IT Student at **Sri Shakthi Institute of Engineering Technology, Coimbatore**  
 - 💻 Java Backend Developer with knowledge of **Spring Boot & REST APIs**  
 - 🌐 Also skilled in **MERN Stack Development**  
-- 🧠 Learning in **DSA & Problem Solving**  
-- 💡 Clean code, scalable systems & secure applications  
-- 🔥 Passion + Code = Infinite Possibilities  
+- 🧠 Learning **DSA & Problem Solving** 
 
 ---
 
@@ -38,9 +36,9 @@
 ---
 
 ### 📌 Featured Projects  
-- 🧭 **Career Guidance Management System (CGMS)** — Full-stack platform using Spring Boot, React & MySQL with recommendation engine  
-- 💳 **Secure Online Transaction System** — FinTech app with encrypted transactions, authentication & fraud detection  
-- 🌐 **Full Stack Web Applications** — Built scalable MERN & Spring Boot apps with REST APIs and responsive UI  
+💳 **Secure Online Transaction System** — FinTech platform enabling encrypted, authenticated fund transfers with secure JWT-based transaction management.
+🔐 **Decentralized Escrow Platform for Freelancers** — MERN-based Web3 platform enabling milestone-based secure freelance payments using smart contract–driven escrow.
+💬 **Real-Time Chat Application** — WebSocket-based messaging platform supporting secure private and group chats with low-latency communication. 
 
 ---
 
