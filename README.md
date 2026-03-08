@@ -36,9 +36,9 @@
 ---
 
 ### 📌 Featured Projects  
-💳 **Secure Online Transaction System** — FinTech platform enabling encrypted, authenticated fund transfers with secure JWT-based transaction management.
-🔐 **Decentralized Escrow Platform for Freelancers** — MERN-based Web3 platform enabling milestone-based secure freelance payments using smart contract–driven escrow.
-💬 **Real-Time Chat Application** — WebSocket-based messaging platform supporting secure private and group chats with low-latency communication. 
+- 💳 **Secure Online Transaction System** — FinTech platform enabling encrypted, authenticated fund transfers with secure JWT-based transaction management.
+- 🔐 **Decentralized Escrow Platform for Freelancers** — MERN-based Web3 platform enabling milestone-based secure freelance payments using smart contract–driven escrow.
+- 💬 **Real-Time Chat Application** — WebSocket-based messaging platform supporting secure private and group chats with low-latency communication. 
 
 ---
 
