@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pravin SasiKumar</h1>  
-<h3 align="center">🚀 Java Backend Enthusiast | Full Stack Developer | Spring Boot & MERN Stack</h3>  
+<h3 align="center">🚀 Java Backend Enthusiast | Spring Boot & MERN Stack</h3>  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
