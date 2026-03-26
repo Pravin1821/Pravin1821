@@ -10,9 +10,8 @@
 ### 🧑‍💻 About Me  
 - 🎓 Pre Final Year B.Tech IT Student at **Sri Shakthi Institute of Engineering Technology, Coimbatore**  
 - 💻 Java Backend Developer with knowledge of **Spring Boot & REST APIs**  
-- 🌐 Also skilled in **MERN Stack Development**  
-- 🧠 Learning **DSA & Problem Solving** 
-
+- 🌐 Also skilled in **MERN Stack Development**
+  
 ---
 
 ### 🛠 Tech Stack & Skills  
