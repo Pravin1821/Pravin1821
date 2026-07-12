@@ -236,7 +236,11 @@ IntelliJ · Vercel · Render
 </div>
 
 <details>
-<summary><b>Contribution snake — dark mode</b></summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pravin1821/Pravin1821/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pravin1821/Pravin1821/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pravin1821/Pravin1821/output/github-contribution-grid-snake.svg">
+</picture>   
 <br/>
 
 > Auto-generated via a scheduled GitHub Action. Add <code>platane/snk</code> to your workflows to activate it — the output publishes to the branch below.
