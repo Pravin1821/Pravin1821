@@ -222,12 +222,16 @@ IntelliJ · Vercel · Render
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pravin1821&show_icons=true&theme=react&bg_color=0D1117&title_color=1DB954&icon_color=1DB954&text_color=C9D1D9&border_color=1DB954&hide_border=false&count_private=true" />
+<!-- Note: the official github-readme-stats.vercel.app instance has been intermittently
+     returning 503 DEPLOYMENT_PAUSED since early 2026. Using a community mirror below
+     until it stabilizes. If it ever breaks again, self-host your own instance:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+<img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=Pravin1821&show_icons=true&theme=react&bg_color=0D1117&title_color=1DB954&icon_color=1DB954&text_color=C9D1D9&border_color=1DB954&hide_border=false&count_private=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Pravin1821&theme=react&background=0D1117&stroke=1DB954&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&border=1DB954" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin1821&layout=compact&theme=react&bg_color=0D1117&title_color=1DB954&text_color=C9D1D9&border_color=1DB954&hide_border=false" />
+<img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Pravin1821&layout=compact&theme=react&bg_color=0D1117&title_color=1DB954&text_color=C9D1D9&border_color=1DB954&hide_border=false" />
 
 <br/><br/>
 
@@ -236,16 +240,18 @@ IntelliJ · Vercel · Render
 </div>
 
 <details>
+<summary><b>Contribution snake</b></summary>
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pravin1821/Pravin1821/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pravin1821/Pravin1821/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pravin1821/Pravin1821/output/github-contribution-grid-snake.svg">
-</picture>   
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pravin1821/Pravin1821/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 <br/>
 
-> Auto-generated via a scheduled GitHub Action. Add <code>platane/snk</code> to your workflows to activate it — the output publishes to the branch below.
-
-<img src="https://raw.githubusercontent.com/Pravin1821/Pravin1821/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
+> Auto-generated via a scheduled GitHub Action (workflow file provided separately as `snake.yml`). It watches your contribution graph and publishes the animated SVG to an `output` branch, which the image above pulls from.
 
 </details>
 
@@ -283,8 +289,8 @@ IntelliJ · Vercel · Render
 
 <div align="center">
 
-<a href="https://github.com/Pravin1821/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravin1821&repo=REPO_NAME_1&theme=react&bg_color=0D1117&title_color=1DB954&text_color=C9D1D9&border_color=1DB954" /></a>
-<a href="https://github.com/Pravin1821/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravin1821&repo=REPO_NAME_2&theme=react&bg_color=0D1117&title_color=1DB954&text_color=C9D1D9&border_color=1DB954" /></a>
+<a href="https://github.com/Pravin1821/REPO_NAME_1"><img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=Pravin1821&repo=REPO_NAME_1&theme=react&bg_color=0D1117&title_color=1DB954&text_color=C9D1D9&border_color=1DB954" /></a>
+<a href="https://github.com/Pravin1821/REPO_NAME_2"><img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=Pravin1821&repo=REPO_NAME_2&theme=react&bg_color=0D1117&title_color=1DB954&text_color=C9D1D9&border_color=1DB954" /></a>
 
 </div>
 
