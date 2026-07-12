@@ -27,7 +27,7 @@
 pravin@dev:~$ whoami
 ```
 ```yaml
-name        : Pravin SK
+name        : Pravin Sasikumar
 location    : India
 status      : Student → Backend Engineer (in progress)
 stack       : Java · JavaScript · TypeScript
@@ -219,41 +219,14 @@ IntelliJ · Vercel · Render
 <!-- Stats Section -->
 
 ## `05` The Numbers
+<br>
 
-<div align="center">
-
-<!-- Note: the official github-readme-stats.vercel.app instance has been intermittently
-     returning 503 DEPLOYMENT_PAUSED since early 2026. Using a community mirror below
-     until it stabilizes. If it ever breaks again, self-host your own instance:
-     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
-<img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=Pravin1821&show_icons=true&theme=react&bg_color=0D1117&title_color=1DB954&icon_color=1DB954&text_color=C9D1D9&border_color=1DB954&hide_border=false&count_private=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Pravin1821&theme=react&background=0D1117&stroke=1DB954&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&border=1DB954" />
 
-<br/>
-
-<img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Pravin1821&layout=compact&theme=react&bg_color=0D1117&title_color=1DB954&text_color=C9D1D9&border_color=1DB954&hide_border=false" />
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravin1821&theme=react-dark&bg_color=0D1117&color=1DB954&line=1DB954&point=FFFFFF&hide_border=true" width="100%"/>
 
 </div>
-
-<details>
-<summary><b>Contribution snake</b></summary>
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pravin1821/Pravin1821/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pravin1821/Pravin1821/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pravin1821/Pravin1821/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br/>
-
-> Auto-generated via a scheduled GitHub Action (workflow file provided separately as `snake.yml`). It watches your contribution graph and publishes the animated SVG to an `output` branch, which the image above pulls from.
-
-</details>
 
 <br/>
 
@@ -285,14 +258,30 @@ IntelliJ · Vercel · Render
 
 ## `07` Featured Work
 
-> Replace these cards with your best repositories — pin them via `github.com/Pravin1821?tab=repositories`, then swap the `repo=` parameter below for each one.
+> Two projects worth a closer look — click through for the code.
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Pravin1821/REPO_NAME_1"><img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=Pravin1821&repo=REPO_NAME_1&theme=react&bg_color=0D1117&title_color=1DB954&text_color=C9D1D9&border_color=1DB954" /></a>
-<a href="https://github.com/Pravin1821/REPO_NAME_2"><img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=Pravin1821&repo=REPO_NAME_2&theme=react&bg_color=0D1117&title_color=1DB954&text_color=C9D1D9&border_color=1DB954" /></a>
+### [Chaintrust — Decentralized Escrow](https://github.com/Pravin1821/Chaintrust-decentralized-escrow)
 
-</div>
+A trust-minimized escrow system built to remove the middleman from peer-to-peer transactions.
+
+<img src="https://img.shields.io/badge/-Blockchain-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-Smart%20Contracts-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-Node.js-1DB954?style=flat-square&labelColor=0D1117" />
+
+</td>
+<td width="50%" valign="top">
+
+### [devmind](https://github.com/Pravin1821/devmind)
+
+A developer-focused tool exploring how LLMs can assist real engineering workflows.
+
+<img src="https://img.shields.io/badge/-LLM-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-Full%20Stack-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-MERN-1DB954?style=flat-square&labelColor=0D1117" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -314,27 +303,8 @@ IntelliJ · Vercel · Render
 
 <br/>
 
-<!-- ============================================================= -->
-<!-- SECTION 09 — NOW PLAYING                                       -->
-<!-- ============================================================= -->
-<!-- Spotify Section -->
 
-## `09` Currently On Loop
-
-> Powered by <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a> — connect your own Spotify account to activate live playback below.
-
-<div align="center">
-<img src="https://novatorem-pravin1821.vercel.app/api/spotify" width="500" alt="spotify now playing" />
-</div>
-
-<br/>
-
-<!-- ============================================================= -->
-<!-- SECTION 10 — QUOTE + JOKE                                      -->
-<!-- ============================================================= -->
-<!-- Quote Section -->
-
-## `10` Rotating Thoughts
+## `09` Rotating Thoughts
 
 <div align="center">
 
