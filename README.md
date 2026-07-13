@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191414,100:1DB954&height=180&section=header&text=PRAVIN%20SK&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Backend-first%20Engineer%20%E2%80%94%20Java%20%C3%97%20MERN%20%C3%97%20Systems&descAlignY=62&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191414,100:1DB954&height=180&section=header&text=PRAVIN%20SK&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%94%20Java%20%C3%97%20MERN%20%C3%97%20Systems&descAlignY=62&descSize=18&animation=fadeIn" />
 
 <br/>
 
@@ -29,7 +29,7 @@ pravin@dev:~$ whoami
 ```yaml
 name        : Pravin Sasikumar
 location    : India
-status      : Student → Backend Engineer (in progress)
+status      : Student → Full-Stack Developer (in progress)
 stack       : Java · JavaScript · TypeScript
 focus       : Backend systems, clean architecture, DSA
 building    : Full-stack projects on the MERN + Spring Boot rails
@@ -58,7 +58,7 @@ a1e4f9c  fix: stopped over-engineering the auth layer
 
 ## `01` Field Notes
 
-I write backend systems the way I solve DSA problems — look for the boring, correct answer before reaching for the clever one. Most of my time goes into Java and Spring Boot, with React and Node on the side so I can ship the whole product, not just the API.
+I write backend systems the way I solve DSA problems — look for the boring, correct answer before reaching for the clever one. Most of my time goes into Node, with React and Java + Springboot on the side so I can ship the whole product, not just the API.
 
 I don't chase frameworks. I chase **understanding what the framework is hiding from me.**
 
@@ -114,7 +114,7 @@ fix what actually breaks.
 
 | | |
 |---|---|
-| 🧩 Learning | Spring Boot internals, LLM fundamentals |
+| 🧩 Learning | React, LLM fundamentals |
 | 🛠️ Building | MERN + Spring Boot side projects |
 | 📖 Reading | System design case studies |
 | 🎯 Practicing | Advanced DSA, daily |
@@ -149,14 +149,14 @@ fix what actually breaks.
 ```mermaid
 timeline
     title From First Commit to Backend Engineer
-    2024 : Started the MERN stack
-         : Learned to build before optimizing
-    2025 : Built full-stack applications end to end
-         : Crossed 350+ DSA problems solved
-    2026 : Deep-diving Spring Boot and backend scaling
-         : Exploring LLMs and how they're engineered
-    Future : Open-source contributions at scale
-           : Backend Engineering, full-time
+    Foundation : Started the MERN stack
+               : Learned to build before optimizing
+    Full Stack : Built full-stack applications end to end
+               : Crossed 350+ DSA problems solved
+    Depth : Deep-diving Spring Boot and backend scaling
+          : Exploring LLMs and how they're engineered
+    Horizon : Open-source contributions at scale
+            : Backend Engineering, full-time
 ```
 
 <br/>
@@ -268,7 +268,7 @@ IntelliJ · Vercel · Render
 
 A trust-minimized escrow system built to remove the middleman from peer-to-peer transactions.
 
-<img src="https://img.shields.io/badge/-Blockchain-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-Smart%20Contracts-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-Node.js-1DB954?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/-React-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-Tailwind-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-Node.js-1DB954?style=flat-square&labelColor=0D1117" />
 
 </td>
 <td width="50%" valign="top">
@@ -277,7 +277,7 @@ A trust-minimized escrow system built to remove the middleman from peer-to-peer 
 
 A developer-focused tool exploring how LLMs can assist real engineering workflows.
 
-<img src="https://img.shields.io/badge/-LLM-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-Full%20Stack-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-MERN-1DB954?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/-LLM-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-TypeScript-1DB954?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/-Ollama-1DB954?style=flat-square&labelColor=0D1117" />
 
 </td>
 </tr>
