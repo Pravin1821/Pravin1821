@@ -273,7 +273,7 @@ A trust-minimized escrow system built to remove the middleman from peer-to-peer 
 </td>
 <td width="50%" valign="top">
 
-### [devmind](https://github.com/Pravin1821/devmind)
+### [codepi](https://github.com/Pravin1821/codepi)
 
 A developer-focused tool exploring how LLMs can assist real engineering workflows.
 
